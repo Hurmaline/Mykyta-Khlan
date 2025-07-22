@@ -1,4 +1,4 @@
-# Hi, my name is Mykyta-Khlan
+# Hi, my name is Mykyta Khlan
 ## LU BSc Computer Science student 
 
 - I'm based in Lancaster/London
